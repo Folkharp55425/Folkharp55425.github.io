@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+}
+hr {
+    height: 1px;
+    background-color: green;
+    border: none;
+}
+button{
+    background-color: red;
+    border: none;
+}
+input{
+    text: red;
+    background-color: white;
+    border: none;
+}
